@@ -43,5 +43,5 @@ e.g.
 + http://ipinfo.io/ip
 + many more ...
 '''
-ifconfig = 'http://ifconfig.me/ip'
+ifconfig = 'https://ipinfo.io/ip'
 #ifconfig = 'http://ifconfig.co/ip'
